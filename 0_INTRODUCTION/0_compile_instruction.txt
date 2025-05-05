@@ -1,0 +1,5 @@
+command prompt :
+	--> c++ source_file_name -o output_file_name
+
+visual studio code cmd :
+	--> cl source_file_name -o output_file_name
